@@ -3,7 +3,7 @@
 [![GitHub Repo size](https://img.shields.io/github/repo-size/charan10187/DSA?style=flat-square)](https://github.com/charan10187/DSA)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-A created, beginner-friendly repository for learning Data Structures & Algorithms (DSA). This repo provides a structured study plan, guided notes, and language-specific solution templates to help you learn efficiently and practice with purpose.
+A created, beginner-friendly repository for learning Data Structures & Algorithms (DSA). This repo provides a structured study plan, guided notes, and language-specific solution templates to help you master DSA fundamentals and ace technical interviews.
 
 ---
 
@@ -15,6 +15,7 @@ A created, beginner-friendly repository for learning Data Structures & Algorithm
 - Recommended Resources
 - Practice Workflow
 - Tips & Best Practices
+- My Experience
 - Contributing
 - License
 
@@ -22,7 +23,7 @@ A created, beginner-friendly repository for learning Data Structures & Algorithm
 
 ## About
 
-Data Structures & Algorithms are essential for building efficient software and succeeding in technical interviews. This repository organizes notes, example problems, and a clear roadmap so you can progress from fundamentals to advanced topics.
+Data Structures & Algorithms are essential for building efficient software and succeeding in technical interviews. This repository organizes notes, example problems, and a clear roadmap so you can progress steadily from fundamentals to advanced topics.
 
 ## How to Use This Repo
 
@@ -80,6 +81,24 @@ Week 11–12 — Interview Preparation
 - Write and debug code by hand occasionally to solidify understanding.
 - Keep solutions well-documented and include complexity analysis.
 - Use mock interviews and pair programming to simulate real conditions.
+
+## My Experience
+
+**Before starting DSA — Things to Do:**
+- Don't start DSA straight → LeetCode
+- Pick a language whether it is C, C++, Java, Python, etc.
+- Learn fundamentals: data types, conversions, conditions, loops
+- Practice the basic stuff; take AI help if needed
+- I used ChatGPT for daily practice
+
+**My Journey:**
+- If you want a reference repo: https://github.com/charan10187/PYTHON_Practice.git
+- In my practice, for a single problem (easy level) it took me almost 5 days to complete
+- From that day I practiced every day; there are some days I didn't open the laptop either
+- **My suggestion:** Even if you're not interested, try to open the problem and think of a way to solve it
+- Maybe a 5-minute thinking session could bring interest
+- By turning a 5-minute session into ♾️ hours/days
+- It happened to me so many times: thinking "ok, let's solve only one problem" turned into solving different problems and finding different approaches
 
 ## Contributing
 
