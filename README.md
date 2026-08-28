@@ -3,7 +3,7 @@
 [![GitHub Repo size](https://img.shields.io/github/repo-size/charan10187/DSA?style=flat-square)](https://github.com/charan10187/DSA)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-A curated, beginner-friendly repository for learning Data Structures & Algorithms (DSA). This repo provides a structured study plan, guided notes, and language-specific solution templates to help you learn efficiently and practice with purpose.
+A created, beginner-friendly repository for learning Data Structures & Algorithms (DSA). This repo provides a structured study plan, guided notes, and language-specific solution templates to help you learn efficiently and practice with purpose.
 
 ---
 
