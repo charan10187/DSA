@@ -7,4 +7,4 @@ NOTES:
   * Data types, conversions, conditions, loops,
   * practice the basic stuff take the AI help
   * I used ChatGPT for daily practice
-  * if you want reference repo:
+  * if you want reference repo: https://github.com/charan10187/PYTHON_Practice.git
