@@ -4,8 +4,9 @@ class Solution:
         #     for j in range(i+1,len(nums)):
         #         if(nums[i]+nums[j]==target):
         #             return [i,j]
+        
+        # reduced the time complexity
        for i in range(len(nums)):
         prod = target - nums[i]
-        for j in range(i + 1, len(nums)):
-            if nums[j] == prod:
-                return [i, j]
+        if prod in nums and nums.index(prod)!=i:
+            return [i,nums.index(prod)]
