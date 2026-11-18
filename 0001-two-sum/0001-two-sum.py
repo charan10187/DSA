@@ -6,7 +6,17 @@ class Solution:
         #             return [i,j]
         
         # reduced the time complexity
-       for i in range(len(nums)):
-        prod = target - nums[i]
-        if prod in nums and nums.index(prod)!=i:
-            return [i,nums.index(prod)]
+    #    for i in range(len(nums)):
+    #     prod = target - nums[i]
+    #     if prod in nums and nums.index(prod)!=i:
+    #         return [i,nums.index(prod)]
+
+    
+        seen={}
+        for i in range(len(nums)):
+            complementry=target-nums[i]
+
+            if complementry in seen:
+                return [seen[complementry],i]
+            seen[nums[i]]=i
+        return []
