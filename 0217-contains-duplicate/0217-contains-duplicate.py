@@ -6,5 +6,4 @@ class Solution:
                 return True
             result.add(num)
         return False
-        
-        
+
